@@ -6,4 +6,4 @@ A continuation of a previous project, Your Study Space, Hestia aims to be a virt
 
 ## Contributions
 
-Contributions to this project are released to the public under the project's open source license.
+Contributions to this project are [released](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license) to the public under the [project's open source license](LICENSE).
